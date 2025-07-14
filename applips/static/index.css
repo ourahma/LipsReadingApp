@@ -1,0 +1,48 @@
+
+body {
+    background-image: url("https://neurosciencenews.com/files/2024/06/ai-alzheimers-speech-neuroscience.jpg");
+    background-position: center;
+    background-attachment: scroll;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card {
+    background-color: rgba(255, 255, 255, 0.92);
+    border-radius: 15px;
+}
+
+h1 {
+    color: #ffffff;
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.6);
+}
+
+.btn {
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.alert-info {
+    background-color: rgba(173, 216, 230, 0.85);
+    border: none;
+    font-size: 1.2rem;
+    border-radius: 12px;
+}
+
+.alert-info h4 {
+    font-weight: bold;
+    color: #004085;
+}
+
+video {
+    border-radius: 10px;
+    box-shadow: 0 4px 16px rgba(0, 0, 0, 0.25);
+}
+
+label.form-label {
+    font-weight: 500;
+}
+   
